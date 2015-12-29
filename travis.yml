@@ -3,6 +3,6 @@ node_js:
   - "4.1"
   - "4.0"
   - "iojs"
-script: npm run test
+script: npm run ci
 addons:
   sauce_connect: true

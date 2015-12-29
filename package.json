@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine index.js"
+    "test": "jasmine index.js",
+    "ci": "jasmine index.js"
   },
   "repository": {
     "type": "git",
